@@ -1,0 +1,13 @@
+python main.py 1 0 1 0 1 1 1 1 1 0
+python main.py 1 0 1 0 1 1 1 1 1 0
+python main.py 1 0 1 0 1 1 1 1 1 0
+python main.py 1 0 1 0 1 1 1 1 1 0
+python main.py 1 0 1 0 1 1 1 1 1 0
+python main.py 1 0 1 0 1 1 1 1 1 0
+python main.py 1 0 1 0 1 1 1 1 1 0
+python main.py 1 0 1 0 1 1 1 1 1 0
+python main.py 1 0 1 0 1 1 1 1 1 0
+python main.py 1 0 1 0 1 1 1 1 1 0
+python main.py 1 0 1 0 1 1 1 1 1 0
+python main.py 1 0 1 0 1 1 1 1 1 0
+python main.py 1 0 1 0 1 1 1 1 1 0

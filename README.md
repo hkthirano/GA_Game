@@ -38,7 +38,7 @@ python main.py * * * * * * * * * *
 
 ## GA : Main_2を使って遺伝的アルゴリズムで学習させる
 
-実行
++ 実行
 ```
 cd GA
 python main.py

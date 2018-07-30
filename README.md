@@ -42,4 +42,4 @@ python main.py * * * * * * * * * *
 ```
 cd GA
 python main.py
-```
+```

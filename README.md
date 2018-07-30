@@ -23,7 +23,7 @@ python main.py
 
 ---
 
-## Main_2 : 学習用
+## Main_2 : 学習用
 
 + 実行
 ```

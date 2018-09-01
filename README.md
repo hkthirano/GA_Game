@@ -9,7 +9,7 @@
 [遺伝的アルゴリズム(Python)でマリオをクリアしたかったのに・・・](https://qiita.com/hokuto_HIRANO/items/a87159273c0e5e339d70)
 
 
-(GIF形式なのでカクカクしています。)
+(下の動画はGIFなのでカクカクしています。)
 ![result](https://github.com/hokuto-HIRANO/GA_Game/blob/master/movie/output.gif)
 
 ---
